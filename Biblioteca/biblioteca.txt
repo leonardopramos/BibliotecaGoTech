@@ -1,0 +1,11 @@
+Harry Potter e a Pedra Filosofal,J.K. Rowling,320,true
+Cem Anos de Solidão,Gabriel García Márquez,416,true
+1984,George Orwell,328,true
+Dom Quixote,Miguel de Cervantes,928,true
+Orgulho e Preconceito,Jane Austen,432,true
+A Revolução dos Bichos,George Orwell,152,true
+O Pequeno Príncipe,Antoine de Saint-Exupéry,96,true
+Crime e Castigo,Fiódor Dostoiévski,672,true
+O Hobbit,J.R.R. Tolkien,320,true
+A Metamorfose,Franz Kafka,200,true
+A Guerra dos Tronos,George R. R. Martin,694,true
